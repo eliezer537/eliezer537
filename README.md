@@ -4,7 +4,7 @@ Meu nome é Eliezer Vilela, eu sou Bacharel em Sistemas de Informação e desenv
 
 Sou apaixonado em resolver problemas e aprender com eles. Estou sempre aberto à novos desafios e a enfrentar mudanças.
 
--   👨🏻‍💻 Front-end Jr.
+- 👨🏻‍💻 Front-end Jr.
 - 🔍 Atualmente aberto a novas oportunidades.
 - 📰 Trabalho com a stack Node.js, React e React-Native.
 
