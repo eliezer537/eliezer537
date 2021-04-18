@@ -7,3 +7,7 @@ Sou apaixonado em resolver problemas e aprender com eles. Estou sempre aberto à
 -   👨🏻‍💻 Front-end Jr.
 - 🔍 Atualmente aberto a novas oportunidades.
 - 📰 Trabalho com a stack Node.js, React e React-Native.
+
+[![Twitter Badge](https://img.shields.io/badge/-@Eliezer_Lincon-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Eliezer_Lincon)](https://twitter.com/Eliezer_Lincon) 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
