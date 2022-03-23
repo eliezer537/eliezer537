@@ -4,9 +4,8 @@ Meu nome é Eliezer Vilela, eu sou Bacharel em Sistemas de Informação e desenv
 
 Sou apaixonado em resolver problemas e aprender com eles. Estou sempre aberto à novos desafios e a enfrentar mudanças.
 
-- 👨🏻‍💻 Front-end Jr.
-- 🔍 Atualmente aberto a novas oportunidades.
-- 📰 Trabalho com a stack Node.js, React e React-Native.
+- 👨🏻‍💻 Full Stack Pleno.
+- 📰 Trabalho com a stack Node.js, ReactJS e React-Native.
 
 [![Twitter Badge](https://img.shields.io/badge/-@Eliezer_Lincon-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Eliezer_Lincon)](https://twitter.com/Eliezer_Lincon) 
 [![Linkedin Badge](https://img.shields.io/badge/-Eliezer%20Vilela-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezer-lincon-vilela/)](https://www.linkedin.com/in/eliezer-lincon-vilela/) 
